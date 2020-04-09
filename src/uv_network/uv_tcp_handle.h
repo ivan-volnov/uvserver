@@ -1,7 +1,7 @@
 #ifndef UV_TCP_HANDLE_H
 #define UV_TCP_HANDLE_H
 
-#include "../tools/global.h"
+#include "../utility/global.h"
 #include <uv.h>
 
 class UVTCPHandle

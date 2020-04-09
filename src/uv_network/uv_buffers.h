@@ -1,8 +1,8 @@
 #ifndef UV_BUFFERS_H
 #define UV_BUFFERS_H
 
-#include "../tools/stack.h"
-#include "../tools/global.h"
+#include "../utility/stack.h"
+#include "../utility/global.h"
 #include <uv.h>
 
 
